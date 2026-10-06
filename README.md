@@ -53,7 +53,7 @@ Esta é a stack que utilizo no dia a dia, combinando conhecimentos académicos e
 Sou um desenvolvedor apaixonado por construir sistemas robustos, organizados e escaláveis. Tenho forte atuação na criação de APIs RESTful, gestão de bases de dados e arquitetura de microsserviços utilizando **Java e Spring Boot**, além de desenvolver interfaces modernas com **React e Tailwind CSS**.
 
 Ao longo da minha trajetória, desenvolvi soluções que:
-- Estruturaram a logística corporativa, como a criação do **FuelCore**, um sistema completo para gestão de frotas e rastreamento de combustível.
+- Estruturaram a logística corporativa, como a criação do **Fermat**, um sistema completo para gestão de logística de grandes construtoras.
 - Otimizaram processos operacionais pesados em estaleiros de obras através de modelagem de dados e automação.
 - Implementaram pipelines de CI/CD eficientes utilizando GitHub Actions e plataformas Cloud.
 
