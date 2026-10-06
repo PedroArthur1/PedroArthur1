@@ -4,7 +4,7 @@
   
   ### Seja muito bem-vindo(a) ao meu repositório do GitHub
 
-  Desenvolvedor de Software com foco em engenharia backend, arquitetura de microsserviços e soluções corporativas.<br>
+  Desenvolvedor de Software Full Stack, com foco em arquitetura de microsserviços e soluções corporativas.<br>
   Estudante de Ciência da Computação na UFAPE e atuando no desenvolvimento e gestão de logística de frotas na CPM Construtora.
 
 </div>
